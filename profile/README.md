@@ -5,7 +5,7 @@
 ## Poly series — Multi-agent orchestration
 
 - **PolyBrain** — Multi-model request routing for agentic workflows.
-- **Polygnosis** — Structured multi-agent debate (planner, proposer, challenger, evidence, judge) for evaluating and converging on stronger LLM outputs.
+- **PolyGnosis** — Structured multi-agent debate (planner, proposer, challenger, evidence, judge) for evaluating and converging on stronger LLM outputs.
 
 ## Lex series — Edge AI infrastructure
 
