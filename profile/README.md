@@ -11,6 +11,10 @@
 
 - **LexGateway** — SaaS platform for ultra-low-latency LLM access via a global edge network.
 
+## Vek series — Agent as an API
+
+- **VekTor** — Task-oriented agents through a simple API. Describe what you need; VekTor fetches, manipulates, and acts.
+
 ## Mission
 
 Make agentic systems more reliable by letting specialised agents reason together, critique each other, and converge on better answers — without hiding the humans in the loop.
