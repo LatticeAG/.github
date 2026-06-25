@@ -1,11 +1,15 @@
 # LatticeAG
 
-**An agentic AI lab.** We build the **Poly series** — multi-agent systems for orchestration, debate, and consensus.
+**An agentic AI lab.** We build infrastructure and systems for the agentic age.
 
-## Products
+## Poly series — Multi-agent orchestration
 
 - **PolyBrain** — Multi-model request routing for agentic workflows.
 - **Polygnosis** — Structured multi-agent debate (planner, proposer, challenger, evidence, judge) for evaluating and converging on stronger LLM outputs.
+
+## Lex series — Edge AI infrastructure
+
+- **LexGateway** — SaaS platform for ultra-low-latency LLM access via a global edge network.
 
 ## Mission
 
