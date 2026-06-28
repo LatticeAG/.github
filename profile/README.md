@@ -4,23 +4,23 @@
 
 ## Axi series — Agent cognitive middleware
 
-- **Axion** — Agent cognitive middleware. Inspect, detect, and verify agent reasoning in real time. A proxy layer that makes agent beliefs visible, catches revision loops, and blocks bad actions before they execute.
+- **[Axion](https://latticeag.vercel.app/products/axion)** — Agent cognitive middleware. Inspect, detect, and verify agent reasoning in real time. A proxy layer that makes agent beliefs visible, catches revision loops, and blocks bad actions before they execute.
 
 ## Poly series — Multi-agent orchestration
 
-- **PolyBrain** — Multi-model request routing for agentic workflows.
-- **PolyGnosis** — Structured multi-agent debate (planner, proposer, challenger, evidence, judge) for evaluating and converging on stronger LLM outputs.
-- **PolyFlow** — Multi-step agent pipelines. Chain agents together: plan, execute, validate.
+- **[PolyBrain](https://github.com/mosesman831/PolyBrain)** — Multi-model request routing for agentic workflows.
+- **[PolyGnosis](https://github.com/mosesman831/PolyGnosis)** — Structured multi-agent debate (planner, proposer, challenger, evidence, judge) for evaluating and converging on stronger LLM outputs.
+- **[PolyFlow](https://latticeag.vercel.app/products/polyflow)** — Multi-step agent pipelines. Chain agents together: plan, execute, validate.
 
 ## Lex series — Edge AI infrastructure
 
-- **LexGateway** — SaaS platform for ultra-low-latency LLM access via a global edge network.
-- **LexRouter** — Automatic model selection. Send a task; it picks the cheapest, fastest model that can handle it.
+- **[LexGateway](https://latticeag.vercel.app/products/lexgateway)** — SaaS platform for ultra-low-latency LLM access via a global edge network.
+- **[LexRouter](https://latticeag.vercel.app/products/lexrouter)** — Automatic model selection. Send a task; it picks the cheapest, fastest model that can handle it.
 
 ## Vek series — Agent as an API
 
-- **VekTor** — Task-oriented agents through a simple API. Describe what you need; VekTor fetches, manipulates, and acts.
-- **VekData** — "Give me the Q3 revenue by region" → agent queries your database, builds the table, returns it.
+- **[VekTor](https://latticeag.vercel.app/products/vektor)** — Task-oriented agents through a simple API. Describe what you need; VekTor fetches, manipulates, and acts.
+- **[VekData](https://latticeag.vercel.app/products/vekdata)** — "Give me the Q3 revenue by region" -> agent queries your database, builds the table, returns it.
 
 ## Mission
 
