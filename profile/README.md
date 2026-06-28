@@ -2,6 +2,10 @@
 
 **An agentic AI lab.** We build infrastructure and systems for the agentic age.
 
+## Axi series — Agent cognitive middleware
+
+- **Axion** — Agent cognitive middleware. Inspect, detect, and verify agent reasoning in real time. A proxy layer that makes agent beliefs visible, catches revision loops, and blocks bad actions before they execute.
+
 ## Poly series — Multi-agent orchestration
 
 - **PolyBrain** — Multi-model request routing for agentic workflows.
@@ -20,9 +24,10 @@
 
 ## Mission
 
-Make agentic systems more reliable by letting specialised agents reason together, critique each other, and converge on better answers — without hiding the humans in the loop.
+Make agentic systems more reliable by letting specialised agents reason together, critique each other, and converge on better answers - without hiding the humans in the loop.
 
 ## Contact
 
+- Website: [latticeag.vercel.app](https://latticeag.vercel.app)
 - Articles: [Dev.to](https://dev.to/latticeag)
 - GitHub: [@LatticeAG](https://github.com/LatticeAG)
