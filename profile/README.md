@@ -16,8 +16,13 @@
 
 - **[LexGateway](https://latticeag.vercel.app/products/lexgateway)** — SaaS platform for ultra-low-latency LLM access via a global edge network.
 - **[LexRouter](https://latticeag.vercel.app/products/lexrouter)** — Automatic model selection. Send a task; it picks the cheapest, fastest model that can handle it.
-- **[LexRapid](https://latticeag.vercel.app/products/lexrapid)** — One proxy, two models. Drafts responses at 8k+ TPS and improves them with a 70B+ model. 8B speed, 70B quality. Invite-only.
+- **[LexRapid](https://latticeag.vercel.app/products/lexrapid)** — One proxy, two models. Drafts fast with an 8B model and optionally improves with a larger model. 8B speed, 70B quality. Invite-only.
 - **[LexVerdict](https://latticeag.vercel.app/products/lexverdict)** — Verification API for agent results. POST a tool call, goal, and result — get back pass or steer with a reason, in milliseconds. Open-source (MIT).
+
+## Vis series — Agent observability
+
+- **[VisCompile](https://latticeag.vercel.app/products/viscompile)** — Behavioral diff tool for AI agents. Snapshot golden test suites, diff after prompt changes, catch regressions before they ship. OSS CLI (Rust) + hosted SaaS.
+- **[VisReplay](https://latticeag.vercel.app/products/visreplay)** — Session recorder and debugger for AI agents. Record every decision, replay step-by-step, fork at any point and re-run. OSS SDK (TypeScript) + hosted SaaS.
 
 ## Vek series — Agent as an API
 
