@@ -16,7 +16,7 @@
 
 - **[LexGateway](https://latticeag.vercel.app/products/lexgateway)** — SaaS platform for ultra-low-latency LLM access via a global edge network.
 - **[LexRouter](https://latticeag.vercel.app/products/lexrouter)** — Automatic model selection. Send a task; it picks the cheapest, fastest model that can handle it.
-- **[LexVerdict](https://latticeag.vercel.app/products/lexverdict)** — Verification API for agent results. POST a tool call, goal, and result — get back pass or steer with a reason, in milliseconds. Invite-only.
+- **[LexVerdict](https://latticeag.vercel.app/products/lexverdict)** — Verification API for agent results. POST a tool call, goal, and result — get back pass or steer with a reason, in milliseconds. Open-source (MIT).
 
 ## Vek series — Agent as an API
 
